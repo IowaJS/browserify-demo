@@ -1,0 +1,15 @@
+{
+    "name": "browserify-demo",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": ">= 0",
+        "eye": ">= 0",
+        "browserify": ">= 0",
+        "browserify-middleware": ">= 0",
+        "moment": ">= 0",
+        "uglify-js": ">= 0"
+    },
+    "script": {
+        "start": "node server.js"
+    }
+}
